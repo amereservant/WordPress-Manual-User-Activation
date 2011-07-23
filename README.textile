@@ -1,0 +1,5 @@
+h1. WordPress Manual User Activation Plugin
+
+p. This plugin allows for WordPress administrators to activate user accounts from the admin panel.  This can be particularly useful when an activation email fails to send or creating testing accounts during development.
+
+p. This plugin is currently a copy of the "WP Activate Users":http://wordpress.org/extend/plugins/wp-activate-users/ plugin, which doesn't work correctly with WordPress 3.2.1+.  I've copied it here with the intention on reworking the code and making it into a working plugin.
